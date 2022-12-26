@@ -1,0 +1,202 @@
+
+
+testing......
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_tt0.05/Anet.ckpt-3
+post: wtc
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_tt0.05/Anet.ckpt-3
+post: wtc
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_tt0.5/Anet.ckpt-3
+post: wtc
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_tt1.0/Anet.ckpt-3
+post: wtc
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_natt/Anet.ckpt-3
+post: wtc
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw0/Anet.ckpt-3
+post: wtc
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_sagittal/Anet.ckpt-3
+post: wtc
+view_direction:sagittal
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_sagittal/Anet.ckpt-3
+post: wtc
+view_direction: sagittal
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_sagittal/Anet.ckpt-3
+post: wtc
+view_direction: sagittal
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_sagittal/Anet.ckpt-3
+post: wtc
+view_direction: sagittal
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_sagittal/Anet.ckpt-3
+post: wtc
+view_direction: sagittal
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_sagittal/Anet.ckpt-3
+post: wtc
+view_direction: sagittal
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_sagittal/Anet.ckpt-3
+post: wtc
+view_direction: sagittal
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_sagittal/Anet.ckpt-3
+post: no-constrain
+view_direction: sagittal
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_coronal/Anet.ckpt-3
+post: no-constrain
+view_direction: coronal
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_coronal/Anet.ckpt-3
+post: wtc
+view_direction: coronal
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_sagittal/Anet.ckpt-3
+post: wtc
+view_direction: sagittal
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_tt0.7/Anet.ckpt-3
+post: wtc
+view_direction: axial
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_tt0.3/Anet.ckpt-3
+post: wtc
+view_direction: axial
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
+
+
+testing......
+
+data_path: ../../data/brats18/validation.txt 
+w_path_epoch: ./saver/etw_tt0.7/Anet.ckpt-2
+post: wtc
+view_direction: axial
+patch_shape: [96, 96, 96]
+net_type: etw_3datt_sp16_lr_loss
